@@ -1,4 +1,4 @@
-# project_1_image_proc
+# Image Enhancement and Frequency Filtering
 
 Project 1 - Image Processing - Federico Favia & Yue Song, November 2019, KTH, Stockholm
 
