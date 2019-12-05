@@ -1,10 +1,10 @@
-%% IMAGE PROCESSING - PROJECT 1, 20.11.2019
+%% IMAGE PROCESSING (EQ2330) - PROJECT 1, 20.11.2019
 %% Federico Favia - Yue Song
 
 %% Initialization
 clear ; close all; clc
 
-path = 'D:\Federico\Documents\Federico\Uni Trento\03 Magistrale EIT\02 EIT VCC 2019-20\2nd period\01 Image and Video Processing EQ2330\project_1\images\baboon512.bmp';
+path = 'path_of_the_image';
 L = 256; % number grey levels
 
 %% ==================== Part 1: Histogram equalization ====================
